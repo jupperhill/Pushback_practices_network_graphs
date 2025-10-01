@@ -2,7 +2,7 @@
 
 This repository presents the results of a rapid systematic review and evidence synthesis analyzing pushback practices and violence towards migrants crossing European borders. The related protocol can be found in the PROSPERO database (Bozorgmehr et al., 2024).
 
-We used force-directed network graphs to visualize the diverse forms of violence and health outcomes reported in the literature. This type of network graph combines three different levels of information:
+We used force-directed network graphs to visualize the diverse forms of violence and health outcomes reported in the identified literature. This type of network graph combines three different levels of information:
 
 1. **Word frequency** – expressed by the size of the words
 2. **Word relation** – expressed by line thickness (thin to thick), line color (light grey to dark grey), and word spatial distance (distant to close). Spatial distances are adjusted (forced) to increase readability, so exact distances are modified slightly for visual clarity.
