@@ -8,7 +8,9 @@ We used force-directed network graphs to visualize the diverse forms of violence
 2. **Word relation** – expressed by line thickness (thin to thick), line color (light grey to dark grey), and word spatial distance (distant to close). Spatial distances are adjusted (forced) to increase readability, so exact distances are modified slightly for visual clarity.
 3. **Grouping** – expressed by word colors. In this visualization, the color scheme has been applied primarily to ensure readability of closely positioned words rather than to indicate clusters.
 
+
 The methodology and R implementation are based on a blog post by André Ourednik (2022).
+
 
 A more detailed description will follow once the publication is ready.
 
