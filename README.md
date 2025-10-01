@@ -9,14 +9,12 @@ We used force-directed network graphs to visualize the diverse forms of violence
 3. **Grouping** – expressed by word colors. In this visualization, the color scheme has been applied primarily to ensure readability of closely positioned words rather than to indicate clusters.
 
 
-
-
 A more detailed description will follow once the publication is ready.
-
 
 You can find the final plots [here](https://github.com/jupperhill/Pushback_practices_network_graphs/tree/main/Violence_and_health_categories_win_5).
 
-## Credits
+
+### Credits
 The methodology and implementation in R are based on a blog post by André Ourednik (2022).
 
 ---
